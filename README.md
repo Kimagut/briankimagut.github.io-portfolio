@@ -16,6 +16,7 @@
 -	Conducted in-depth data analysis and generated meaningful insights transforming raw data into actionable intelligence
   
 **IT Analyst and Technician Intern @ PRIME TELECOMS (MAY 2022-JUNE  2023)**
+
  	-	Planning network installation, assessing installation sites and preparing an installation diagram.
   -	Verifying service by testing circuits, and equipment and correcting escalating problems.
   -	Reduced average fault resolution time 3 hours and below, enhancing operational efficiency and minimizing network downtime.
